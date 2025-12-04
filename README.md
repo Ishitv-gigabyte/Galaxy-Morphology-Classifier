@@ -1,6 +1,6 @@
 # Galaxy-Morphology-Classifier
 
-## 🚀 How to Run
+## How to Run
 
 1.  **Clone the repo:**
     ...
